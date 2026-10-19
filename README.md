@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a website named Campus Buddy<br>
+🔭 I’m currently working on a website named Interest Hub<br>
 👯 I’m looking to collaborate on Beginner-friendly Python and website development projects.<br>
 🤝 I’m looking for help with Enhancing my skills in website design and development.<br>
 🌱 I’m currently learning Python programming<br>
